@@ -1,0 +1,13 @@
+C:\Users\²\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\²\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\²\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\²\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\²\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\²\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\DataValidationService.csprojAssemblyReference.cache
+C:\Users\²\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\DataValidationService.csproj.CoreCompileInputs.cache
+C:\Users\²\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\DataValidationService.csproj.CopyComplete
+C:\Users\²\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\²\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+C:\Users\²\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.Properties.Resources.resources
+C:\Users\²\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\DataValidationService.csproj.GenerateResource.cache
+C:\Users\²\source\repos\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\XsdGeneratedCode\GeneratedXsdTypes.cs

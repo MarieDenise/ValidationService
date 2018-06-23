@@ -1,0 +1,10 @@
+C:\Users\²\source\repos\WcfServiceLibrary1\DataValidationForm\bin\Debug\DataValidationForm.exe.config
+C:\Users\²\source\repos\WcfServiceLibrary1\DataValidationForm\bin\Debug\DataValidationForm.exe
+C:\Users\²\source\repos\WcfServiceLibrary1\DataValidationForm\bin\Debug\DataValidationForm.pdb
+C:\Users\²\source\repos\WcfServiceLibrary1\DataValidationForm\obj\Debug\DataValidationForm.csprojAssemblyReference.cache
+C:\Users\²\source\repos\WcfServiceLibrary1\DataValidationForm\obj\Debug\DataValidationForm.Form1.resources
+C:\Users\²\source\repos\WcfServiceLibrary1\DataValidationForm\obj\Debug\DataValidationForm.Properties.Resources.resources
+C:\Users\²\source\repos\WcfServiceLibrary1\DataValidationForm\obj\Debug\DataValidationForm.csproj.GenerateResource.cache
+C:\Users\²\source\repos\WcfServiceLibrary1\DataValidationForm\obj\Debug\DataValidationForm.csproj.CoreCompileInputs.cache
+C:\Users\²\source\repos\WcfServiceLibrary1\DataValidationForm\obj\Debug\DataValidationForm.exe
+C:\Users\²\source\repos\WcfServiceLibrary1\DataValidationForm\obj\Debug\DataValidationForm.pdb
